@@ -44,7 +44,7 @@
 ## 🛠 使用技术
 - Python（pandas、openpyxl）
 - Excel 数据处理
-- AI辅助开发（DeepSeek Agent + Cursor）
+- AI辅助开发工作流
 
 ## 📫 联系方式
 - 邮箱：liusenjie2005@qq.com
